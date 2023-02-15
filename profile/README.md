@@ -1,4 +1,6 @@
-# Oracle QuickStat
+![Oracle Banner](profile/Quickstart-banner.png "Open source at Oracle. Everyone is invited. Let's collaborate together")
+
+# Oracle QuickStart
 
 Automated deployments of enterprise software on OCI.
 
@@ -22,4 +24,5 @@ Automated deployments of enterprise software on OCI.
 * [Oracle GitHub Actions](https://github.com/oracle-actions) – GitHub Actions from Oracle
 * [Oracle Sample Projects](https://github.com/oracle-samples) – new projects and sample applications 
 * [Oracle Terraform Modules](https://github.com/oracle-terraform-modules) – Terraform modules for provisioning Oracle Cloud Infrastructure resources
+* [Quick Start](https://github.com/oracle-quickstart) – automated deployments of enterprise software on Oracle Cloud Infrastructure
 * [Verrazzano](https://github.com/verrazzano) – an open source enterprise container platform curated by Oracle
