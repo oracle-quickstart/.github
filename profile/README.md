@@ -1,4 +1,4 @@
-![Oracle Banner](profile/Quickstart-banner.png "Open source at Oracle. Everyone is invited. Let's collaborate together")
+![Oracle Banner](https://raw.githubusercontent.com/oracle-quickstart/.github/00ccb2772c4b622c2dea4a244274698b662ba546/profile/Quickstart-banner.png "Open source at Oracle. Everyone is invited. Let's collaborate together")
 
 # Oracle QuickStart
 
