@@ -2,7 +2,7 @@
 
 # Oracle QuickStart
 
-Automated deployments of enterprise software on OCI.
+Automated deployments of enterprise software on Oracle Cloud Infrastructure
 
 ## Get Started
 
